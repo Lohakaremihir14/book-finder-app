@@ -82,9 +82,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## AI Assistance
-
-This project development was assisted by an AI tool to help with problem-solving, code snippets, and UI design guidance.
-```
-
 ***
